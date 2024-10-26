@@ -21,8 +21,12 @@
 <p align="center">
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
      <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+     <a href="#"><img alt="Swift" src="https://img.shields.io/badge/swift-02569B?style=for-the-badge&logo=swift&logoColor=white"></a>
+     <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-02569B?style=for-the-badge&logo=kotlin&logoColor=white"></a>
      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+     <a href=#"><img alt="FastAPI" src="https://img.shields.io/badge/fastapi-02569B?style=for-the-badge&logo=fastapi&logoColor=white"></a>
      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+     <a href="#"><img alt="QT" src="https://img.shields.io/badge/qt-02569B?style=for-the-badge&logo=qt&logoColor=white"></a>
      <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 </p>
 
